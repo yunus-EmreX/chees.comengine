@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="generator" content="Hugo 0.54.0" />
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Stockfish - Open Source Chess Engine</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Stockfish is a powerful and open source chess engine." />
+<meta property="og:title" content="" />
+<meta property="og:type" content="" />
+<meta property="og:url" content="" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+<meta name="twitter:card" content="" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:creator" content="" />
+<script src="/cdn-cgi/apps/head/4eMWUpsm0SI8GcLymiszRn3uB5U.js"></script><link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.min.2d0c8063a9376d54cb263e4f41f6d541647f12212c30af5f8f97167f6fbc169f.css">
+</head>
+<body class='page page-home'>
+<div id="main-menu-mobile" class="main-menu-mobile">
+<ul>
+<li class="menu-item-download">
+<a href="/download/">
+<span>Download</span>
+</a>
+</li>
+<li class="menu-item-get involved">
+<a href="/get-involved/">
+<span>Get Involved</span>
+</a>
+</li>
+<li class="menu-item-blog">
+<a href="/blog/">
+<span>Blog</span>
+</a>
+</li>
+<li class="menu-item-about">
+<a href="/about/">
+<span>About</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="wrapper">
+<div class='header'>
+<div class="container">
+<div class="logo">
+<a href="/"><img height=36px alt="Stockfish Logo" src="/images/logo/icon_128x128@2x.png" /></a>
+</div>
+<div class="logo-mobile">
+<a href="/"><img alt="Stockfish Logo" src="/images/logo/icon_128x128@2x.png" /></a>
+</div>
+<div id="main-menu" class="main-menu">
+<ul>
+<li class="menu-item-download">
+<a href="/download/">
+<span>Download</span>
+</a>
+</li>
+<li class="menu-item-get involved">
+<a href="/get-involved/">
+<span>Get Involved</span>
+</a>
+</li>
+<li class="menu-item-blog">
+<a href="/blog/">
+<span>Blog</span>
+</a>
+</li>
+<li class="menu-item-about">
+<a href="/about/">
+<span>About</span>
+</a>
+</li>
+</ul>
+</div>
+<button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button" aria-label="Mobile Menu">
+<span class="hamburger-box">
+<span class="hamburger-inner"></span>
+</span>
+</button>
+</div>
+</div>
+<div class="intro">
+<div class="container">
+<div class="row justify-content-start">
+<div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+<h1 id="stockfish-16">Stockfish 16</h1>
+<p>Strong open source chess engine</p>
+<a href="/download/" class="button button-large mb-6">Download Stockfish</a>
+<h2><a href="/blog/">Latest from the blog</a></h2>
+<ul>
+<li class="blog-preview">
+<span class="muted">2023-06-30</span>: <a href="/blog/2023/stockfish-16/">Stockfish 16</a>
+</li>
+<li class="blog-preview">
+<span class="muted">2022-12-04</span>: <a href="/blog/2022/stockfish-15-1/">Stockfish 15.1</a>
+</li>
+<li class="blog-preview">
+<span class="muted">2022-11-18</span>: <a href="/blog/2022/chessbase-stockfish-agreement/">ChessBase GmbH and the Stockfish team reach an agreement and end their legal dispute</a>
+</li>
+</ul>
+</div>
+<div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+<img alt=Home class="intro-image" src="/images/logo/icon_512x512@2x.png" />
+</div>
+</div>
+</div>
+</div>
+<div class="strip strip-grey">
+<div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+<div class="row justify-content-center">
+<div class="col-12 col-md-6 col-lg-4 mb-2">
+<div class="feature">
+<h2 class="feature-title">Strong</h2>
+<div class="feature-content">
+<p>Stockfish is a 14-time winner of the Top Chess Engine Championship.</p>
+</div>
+<a href="https://en.wikipedia.org/wiki/Stockfish_%28chess%29#Competition_results" class="button">View Competition Results</a>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-2">
+<div class="feature">
+<h2 class="feature-title">Open Source</h2>
+<div class="feature-content">
+<p>Stockfish is open source (GPLv3 license). That means you can read the code, modify it, and contribute back.</p>
+</div>
+<a href="https://github.com/official-stockfish/Stockfish" class="button">Stockfish on GitHub</a>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-2">
+<div class="feature">
+<h2 class="feature-title">Run Anywhere</h2>
+<div class="feature-content">
+<p>You can use Stockfish on your computer or on your iOS or Android device. So you can get world-class chess analysis, wherever you are.</p>
+</div>
+<a href="/download/" class="button">Download</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<div class="footer-inner">
+<h3 class="footer-title">Stockfish - Open Source Chess Engine</h3>
+<ul>
+<li class="menu-item-home">
+<a href="/">
+Home
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-footer">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<div class="sub-footer-inner">
+<div class="social">
+<a href="https://github.com/official-stockfish/Stockfish" target="blank"><img src="/images/social/github.svg" title="Github" alt="Github" /></a>
+<a href="https://twitter.com/stockfishchess" target="blank"><img src="/images/social/twitter.svg" title="Twitter" alt="Twitter" /></a>
+<a href="https://discord.gg/GWDRS3kU6R" target="blank"><img src="/images/social/discord.svg" title="Discord" alt="Discord" /></a>
+</div>
+<div class="copyright">Stockfish is licensed under the GPL license. Website © 2010-2022 Daylen Yang. Stockfish icon by Klein Maetschke.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="/js/scripts.min.d96a772ac4d827467f472011118ea1a6f5729f239bd039f5e899b527889ead62.js"></script>
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "89643d4f0588441a988e531572044831"}'></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v52afc6f149f6479b8c77fa569edb01181681764108816" integrity="sha512-jGCTpDpBAYDGNYR5ztKt4BQPGef1P0giN6ZGVUi835kFF88FOmmn8jBQWNgrNd8g/Yu421NdgWhwQoaOPFflDw==" data-cf-beacon='{"rayId":"7e083c6488d450e7","version":"2023.4.0","b":1,"token":"7fead8e6c8214e048af0ad587227cdea","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
